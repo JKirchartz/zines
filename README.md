@@ -1,7 +1,7 @@
 Zines:
 ====
 
-[Zen for Butts (1pg Zine)](Zen-For-Butts_1pg-zine.pdf)
+[Zen for Butts (1pg Zine)](Zen-For-Butts_1pg-zine.pdf) (A short &amp; irreverant primer on Shikantaza meditation)
 
 Instructions:
 ====
