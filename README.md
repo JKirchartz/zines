@@ -1,4 +1,4 @@
-# [JKirchartz's](https://jkirchartz.com) zines
+## by [JKirchartz's](https://jkirchartz.com)
 
 [Zen for Butts (1pg Zine)](Zen-For-Butts_1pg-zine.pdf)
 
